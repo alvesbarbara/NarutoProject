@@ -1,0 +1,28 @@
+Gennin, é o primeiro nivel shinobi (ninja).
+faz missões de nivel D
+
+
+Chunnin, é o segundo nivel de um shinobi
+Pode fazer missões RANK nivel B
+Pode ser um examinador da prova chunnin
+
+
+Jounnin 
+Pode fazer missões RANK S
+Pode liderar um time de 3 gennins
+Pode ser guarda do Kage
+
+Kage
+Não faz missões
+É tipo um presidente da vila que lidera
+Elege o próximo Kage
+
+
+Toda missão tem um valor
+rank de dificuldade que vai de D o nivel mais baixo 
+até o nivel A o mais alto e S que é acima de A
+é composta por 2 integrantes do mesmo nivel
+Tem um valor de acordo com o rank
+
+
+
